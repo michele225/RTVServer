@@ -1,13 +1,19 @@
-public class Mappa {
+package Util;
+
+import netscape.javascript.JSObject;
+
+public class Citta {
     private String nome;
     private double latitudine;
     private double longitudine;
+    private String jsobject;
 
 
-    public Mappa(String nome, double latitudine, double longitudine) {
+    public Citta(String nome, double latitudine, double longitudine, String jsobject) {
         this.nome = nome;
         this.latitudine = latitudine;
         this.longitudine = longitudine;
+        this.jsobject=jsobject;
     }
 
 
@@ -37,5 +43,12 @@ public class Mappa {
 
     public String builtJson(String continente) {
         return continente + "[nome=" + this.nome + ", latitudine=" + this.latitudine + ", longitudine=" + this.longitudine + "]";
+    }
+    public String Unique(String a, String b){
+        return a+","+b;
+    }
+
+    public String OpenCloseJson(String s){
+        return "[" + s + "]";
     }
 }
