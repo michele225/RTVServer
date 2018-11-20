@@ -1,4 +1,5 @@
 import API.APIMappa;
+import API.HelloWorld;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;

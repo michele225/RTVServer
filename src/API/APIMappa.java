@@ -23,11 +23,12 @@ public class APIMappa {
     public ArrayList<Citta> getJson() {
         ArrayList<Citta> cittas =new ArrayList();
         for(int i=0;i<10; i++){
-            Citta citta =new Citta("Citta" +i, i+5, i*i,"{}");
+            Citta citta =new Citta("Citta " +i, i+5, i*i,"{}");
             cittas.add(citta);
         }
            return cittas;
-        }
     }
+
+}
 
 
