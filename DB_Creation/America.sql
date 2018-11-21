@@ -1,0 +1,18 @@
+INSERT INTO mappa (nome, cities) VALUES('America','{"variableName":"New York, New York","latitude":40.7127837,"longitude":-74.0059413,"jsobject":{}}');
+INSERT INTO mappa (nome, cities) VALUES('America','{"variableName":"Los Angeles, California","latitude":34.0522342,"longitude":-118.2436849,"jsobject":{}}');
+INSERT INTO mappa (nome, cities) VALUES('America','{"variableName":"Denver, Colorado","latitude":39.7392358,"longitude":-104.990251,"jsobject":{}}');
+INSERT INTO mappa (nome, cities) VALUES('America',' {"variableName":"Seattle, Washington","latitude":47.6062095,"longitude":-122.3320708,"jsobject":{}}');
+INSERT INTO mappa (nome, cities) VALUES('America','{"variableName":"Houston, Texas","latitude":29.7604267,"longitude":-95.3698028,"jsobject":{}}');
+INSERT INTO mappa (nome, cities) VALUES('America','{"variableName":"Oklahoma City, Oklahoma","latitude":35.4675602,"longitude":-97.5164276,"jsobject":{}}');
+INSERT INTO mappa (nome, cities) VALUES('America','{"variableName":"Detroit, Michigan","latitude":42.331427,"longitude":-83.0457538,"jsobject":{}}');
+INSERT INTO mappa (nome, cities) VALUES('America','{"variableName":"Boston, Massachusetts","latitude":42.3600825,"longitude":-71.0588801,"jsobject":{}}');
+INSERT INTO mappa (nome, cities) VALUES('America','{"variableName":"Miami, Florida","latitude":25.7616798,"longitude":-80.1917902,"jsobject":{}}');
+INSERT INTO mappa (nome, cities) VALUES('America','{"variableName":"Jacksonville, Florida","latitude":30.3321838,"longitude":-81.65565099999999,"jsobject":{}}');
+INSERT INTO mappa (nome, cities) VALUES('America','{"variableName":"Montgomery, Alabama","latitude":32.3668052,"longitude":-86.2999689,"jsobject":{}}');
+INSERT INTO mappa (nome, cities) VALUES('America','{"variableName":"Menphis, Tennessee","latitude":35.1495343,"longitude":-90.0489801,"jsobject":{}}');
+INSERT INTO mappa (nome, cities) VALUES('America','{"variableName":"Minneapolis, Minnesota","latitude":44.977753,"longitude":-93.2650108,"jsobject":{}}');
+INSERT INTO mappa (nome, cities) VALUES('America','{"variableName":"Phoenix, Arizona","latitude":33.4483771,"longitude":-112.0740373,"jsobject":{}}');
+INSERT INTO mappa (nome, cities) VALUES('America','{"variableName":"Minot, North Dakota","latitude":48.2329668,"longitude":-101.2922906,"jsobject":{}}');
+INSERT INTO mappa (nome, cities) VALUES('America',' {"variableName":"San Francisco, California","latitude":37.7749295,"longitude":-122.4194155,"jsobject":{}}');
+INSERT INTO mappa (nome, cities) VALUES('America','{"variableName":"Chicago, Illinois","latitude":41.8781136,"longitude":-87.6297982,"jsobject":{}}');
+INSERT INTO mappa (nome, cities) VALUES('America','{"variableName":"Boise City, Idaho","latitude":43.6187102,"longitude":-116.2146068,"jsobject":{}}');

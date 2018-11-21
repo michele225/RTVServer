@@ -3,10 +3,9 @@ package API;
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
-import Util.Citta;
+import Model.Citta;
 
 import javax.ws.rs.Consumes;
-import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 import java.util.ArrayList;
 
@@ -20,13 +19,15 @@ public class APIMappa {
     @Consumes({MediaType.APPLICATION_JSON})
     @Produces({MediaType.APPLICATION_JSON})
 
-    public ArrayList<Citta> getJson() {
-        ArrayList<Citta> cittas =new ArrayList();
+    public String getJson() {
+       /* ArrayList<Citta> cittas =new ArrayList();
         for(int i=0;i<10; i++){
-            Citta citta =new Citta("Citta " +i, i+5, i*i,"{}");
+            Citta citta =new Citta(i,"Citta " +i, "");
             cittas.add(citta);
         }
-           return cittas;
+           return cittas;*/
+       return "ciao";
+
     }
 
 }

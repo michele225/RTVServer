@@ -1,0 +1,17 @@
+INSERT INTO mappa (nome, cities) VALUES('Europa','{"variableName":"Paris, France","latitude":48.856614,"longitude":2.3522219000000177,"jsobject":{}}');
+INSERT INTO mappa (nome, cities) VALUES('Europa','{"variableName":"Oslo, Norway","latitude":59.9138688,"longitude":10.752245399999993,"jsobject":{}}');
+INSERT INTO mappa (nome, cities) VALUES('Europa','{"variableName":"Madrid, Spain","latitude":40.4167754,"longitude":-3.7037901999999576,"jsobject":{}}');
+INSERT INTO mappa (nome, cities) VALUES('Europa','{"variableName":"Dublin, Ireland","latitude":53.3498053,"longitude":-6.260309699999993,"jsobject":{}}');
+INSERT INTO mappa (nome, cities) VALUES('Europa','{"variableName":"Athens, Greece","latitude":37.9838096,"longitude":23.727538800000048,"jsobject":{}}');
+INSERT INTO mappa (nome, cities) VALUES('Europa','{"variableName":"Milan, Metropolitan City of Milan, Italy","latitude":45.4642035,"longitude":9.189981999999986,"jsobject":{}}');
+INSERT INTO mappa (nome, cities) VALUES('Europa','{"variableName":"Minsk, Belarus","latitude":53.90453979999999,"longitude":27.561524400000053,"jsobject":{}}');
+INSERT INTO mappa (nome, cities) VALUES('Europa','{"variableName":"Berlin, Germany","latitude":52.52000659999999,"longitude":13.404953999999975,"jsobject":{}}');
+INSERT INTO mappa (nome, cities) VALUES('Europa','{"variableName":"Rome, Metropolitan City of Rome, Italy","latitude":41.9027835,"longitude":12.496365500000024,"jsobject":{}}');
+INSERT INTO mappa (nome, cities) VALUES('Europa','{"variableName":"Riga, Latvia","latitude":56.9496487,"longitude":24.105186499999945,"jsobject":{}}');
+INSERT INTO mappa (nome, cities) VALUES('Europa','{"variableName":"London, UK","latitude":51.5073509,"longitude":-0.12775829999998223,"jsobject":{}}');
+INSERT INTO mappa (nome, cities) VALUES('Europa','{"variableName":"Kiev, Ukraine, 02000","latitude":50.4501,"longitude":30.523400000000038,"jsobject":{}}');
+INSERT INTO mappa (nome, cities) VALUES('Europa','{"variableName":"Stockholm, Sweden","latitude":59.32932349999999,"longitude":18.068580800000063,"jsobject":{}}');
+INSERT INTO mappa (nome, cities) VALUES('Europa','{"variableName":"Brussels, Belgium","latitude":50.8503463,"longitude":4.351721099999963,"jsobject":{}}');
+INSERT INTO mappa (nome, cities) VALUES('Europa','{"variableName":"Zagreb, Croatia","latitude":45.8150108,"longitude":15.981918899999982,"jsobject":{}}');
+INSERT INTO mappa (nome, cities) VALUES('Europa','{"variableName":"Amsterdam, Netherlands","latitude":52.3702157,"longitude":4.895167899999933,"jsobject":{}}');
+INSERT INTO mappa (nome, cities) VALUES('Europa','{"variableName":"Lisbon, Portugal","latitude":38.7222524,"longitude":-9.139336599999979,"jsobject":{}}');
