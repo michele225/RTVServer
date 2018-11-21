@@ -1,4 +1,4 @@
-package Model;
+/*package Model;
 
 import netscape.javascript.JSObject;
 
@@ -60,4 +60,4 @@ public class Citta {
     public String OpenCloseJson(String s){
         return "[" + s + "]";
     }
-}
+}*/

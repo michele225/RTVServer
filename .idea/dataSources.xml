@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="RTV_DB@localhost" uuid="c679ff26-3a73-4da8-8b50-7331cd2cb21d">
+    <data-source source="LOCAL" name="RTV_DB@localhost" uuid="328c1739-4146-4612-9467-124efa668608">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
