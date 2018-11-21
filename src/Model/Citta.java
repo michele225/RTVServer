@@ -1,17 +1,13 @@
-/*package Model;
+package Model;
 
 import netscape.javascript.JSObject;
 
 import javax.persistence.*;
-import java.util.*;
-
-
-
 
 @Entity
 @Table(name = "mappa")
-
 public class Citta {
+
     @javax.persistence.Id
     @Column(name = "id")
     private int id;
@@ -20,12 +16,10 @@ public class Citta {
     @Column(name = "cities", nullable = false)
     private JSObject cities;
 
-
-
     public Citta(int id, String nome, JSObject cities) {
         this.id = id;
         this.nome = nome;
-        this.cities=cities;
+        this.cities = cities;
     }
 
     public int getId() {
@@ -60,4 +54,13 @@ public class Citta {
     public String OpenCloseJson(String s){
         return "[" + s + "]";
     }
-}*/
+
+    @Override
+    public String toString() {
+        return "Citta{" +
+                "id= " + id +
+                "nome= " + nome +
+                "cities= " + cities +
+                '}';
+        }
+}
